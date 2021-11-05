@@ -1,44 +1,28 @@
 ---
 layout: post
 title: "PEC2 - Visualización de datos"
-subtitle: "Práctica para el master de ciencia de datos"
+subtitle: "Práctica para el master de ciencia de datos de la UOC"
 background: '/img/PEC2/pexels-rodnae-productions-7947756.jpg'
 ---
 
-# PEC2 - Visualización de Datos
+ <p></p>
 
 
+## Area Chart
 
-```python
-from IPython.core.display import display, HTML
-from IPython.display import Image
-
-
-```
-
-# Area Chart
-
-
-```python
-display(HTML('<div class="flourish-embed flourish-chart" data-src="visualisation/7707938"><script src="https://public.flourish.studio/resources/embed.js"></script></div>'))
-```
 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7707938"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-# Isotype & unit charts
+## Isotype & unit charts
 
-
-```python
-display(HTML('<div class="flourish-embed" data-src="visualisation/7740245"><script src="https://public.flourish.studio/resources/embed.js"></script></div>'))
-```
 
 
 <div class="flourish-embed" data-src="visualisation/7740245"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-# Venn Diagram
+## Venn Diagram
 
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 75.0000%;
