@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PEC2 - Visualización de datos"
-subtitle: "Práctica para el master de ciencia de datos de la UOC"
+subtitle: "Práctica para el máster de ciencia de datos de la UOC"
 background: '/img/PEC2/pexels-rodnae-productions-7947756.jpg'
 ---
 
